@@ -1,0 +1,1 @@
+The ARIMA class of models is not rich enough for our data: with their help, for example, it is impossible to take into account the relationships between the rows. We need a more complex model. Let us reduce the problem of mass series prediction to the regression formulation
