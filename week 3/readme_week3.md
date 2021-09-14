@@ -1,1 +1,0 @@
- Now it's time to move on to building models! Let's start with building so-called baselines - let's build some models, which we will later use as a first approximation for the future model. Often linear models are used to solve similar problems, as well as ensembles, e.g. random forest or gradient boosting 
