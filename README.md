@@ -1,6 +1,11 @@
 # Predict-Yellow-NYC
 This is final project of Coursera Specialization "Machine Learning and Data Analysis"
 
+Goal this project is predict number of taxi in the next hour.
+
+[week 1](Predict-Yellow-NYC/week 1/NY yellow taxi.ipynb)
+
+
 - Week 1. In the first week, raw data must be processed
 - Week 2. This week you will learn how to work with geodata, learn how to draw objects on statistical and dynamic maps, and understand what rectangular areas you really need to forecast cab demand for
 - Week 3. Now it's time to move on to building models! Let's start with building so-called baselines - let's build some models, which we will later use as a first approximation for the future model. Often linear models are used to solve similar problems, as well as ensembles, e.g. random forest or gradient boosting
